@@ -1,1 +1,1 @@
-# emotica.ai
+# emoticam.ai
